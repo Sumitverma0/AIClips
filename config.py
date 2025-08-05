@@ -1,0 +1,1 @@
+ELEVENLABS_API_KEY = "my_api_key" #https://elevenlabs.io/app/settings/api-keys create key after login you accout the paste the api key here 
