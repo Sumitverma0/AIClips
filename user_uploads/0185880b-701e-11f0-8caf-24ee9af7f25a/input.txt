@@ -1,8 +1,0 @@
-file 'DSC_0306.JPG'
-duration 1
-file '2.jpg'
-duration 1
-file '1.jpg'
-duration 1
-file '3.jpg'
-duration 1
